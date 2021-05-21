@@ -1,0 +1,13 @@
+{
+  "name": "gridsome-amplify",
+  "private": true,
+  "scripts": {
+    "develop": "gridsome develop",
+    "explore": "gridsome explore",
+    "build": "gridsome build"
+  },
+  "dependencies": {
+    "@gridsome/source-contentful": "^0.6.0",
+    "gridsome": "^0.7.0"
+  }
+}
